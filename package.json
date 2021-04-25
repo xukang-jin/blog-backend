@@ -22,7 +22,7 @@
     "strapi-plugin-i18n": "3.6.0",
     "strapi-connector-bookshelf": "3.6.0",
     "knex": "0.21.18",
-    "sqlite3": "5.0.0"
+    "mysql": "2.18.1"
   },
   "author": {
     "name": "A Strapi developer"
